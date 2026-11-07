@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="372" viewBox="0 0 1200 372" role="img" aria-labelledby="title desc">
+  <title id="title">阿豪的轨迹：腾讯、小米、顺丰</title>
+  <desc id="desc">2020 年腾讯产品实习，从用户和内容的角度理解视频产品；2021 年小米 AI 产品，做过小爱同学、数据机器人，产品上过发布会；2025 年顺丰 AI 产品，负责出库 AI Agent，日接管万单发货。</desc>
+  <defs>
+    <clipPath id="frame"><rect width="1200" height="372" rx="28"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif">
+    <rect width="1200" height="372" rx="28" fill="#F5F2EA"/>
+
+    <g id="timeline-rail">
+      <path d="M76 104H1136" stroke="#0A0A0A" stroke-width="3"/>
+      <path d="M1136 104l-12-8v16z" fill="#0A0A0A"/>
+    </g>
+
+    <g id="stop-2020" transform="translate(64 0)">
+      <text x="0" y="78" fill="#0A0A0A" font-size="52" font-weight="800" letter-spacing="-1">2020</text>
+      <circle cx="12" cy="104" r="11" fill="#F5F2EA" stroke="#0A0A0A" stroke-width="4"/>
+      <text x="0" y="168" fill="#0A0A0A" font-size="32" font-weight="700">腾讯</text>
+      <text x="0" y="202" fill="#6B6B6B" font-size="20" font-weight="600">产品实习</text>
+      <text x="0" y="244" fill="#262626" font-size="22" font-weight="500">从用户和内容的角度</text>
+      <text x="0" y="274" fill="#262626" font-size="22" font-weight="500">理解视频产品</text>
+    </g>
+
+    <g id="stop-2021" transform="translate(424 0)">
+      <text x="0" y="78" fill="#0A0A0A" font-size="52" font-weight="800" letter-spacing="-1">2021</text>
+      <circle cx="12" cy="104" r="11" fill="#F5F2EA" stroke="#0A0A0A" stroke-width="4"/>
+      <text x="0" y="168" fill="#0A0A0A" font-size="32" font-weight="700">小米</text>
+      <text x="0" y="202" fill="#6B6B6B" font-size="20" font-weight="600">AI 产品</text>
+      <text x="0" y="244" fill="#262626" font-size="22" font-weight="500">做过小爱同学、数据机器人，</text>
+      <text x="0" y="274" fill="#262626" font-size="22" font-weight="500">产品上过发布会</text>
+    </g>
+
+    <g id="stop-2025" transform="translate(784 0)">
+      <text x="0" y="78" fill="#0A0A0A" font-size="52" font-weight="800" letter-spacing="-1">2025</text>
+      <circle cx="12" cy="104" r="14" fill="#F5B83D" stroke="#0A0A0A" stroke-width="4"/>
+      <text x="0" y="168" fill="#0A0A0A" font-size="32" font-weight="700">顺丰</text>
+      <text x="0" y="202" fill="#6B6B6B" font-size="20" font-weight="600">AI 产品</text>
+      <text x="0" y="244" fill="#262626" font-size="22" font-weight="500">负责出库 AI Agent，自动出库，</text>
+      <text x="0" y="274" fill="#262626" font-size="22" font-weight="500">日接管万单发货</text>
+    </g>
+
+    <g id="constant-question">
+      <rect x="64" y="304" width="1072" height="42" rx="21" fill="#0A0A0A"/>
+      <circle cx="94" cy="325" r="6" fill="#F5B83D"/>
+      <text x="114" y="333" fill="#F5F5F5" font-size="22" font-weight="600">不变的问题：真实需求是什么，最后怎样落到一个可用的结果上。</text>
+    </g>
+  </g>
+</svg>
