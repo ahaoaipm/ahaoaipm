@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.ahaoai.com/"><b>🌐 个人网站</b></a>
   &nbsp;·&nbsp;
-  <b>✍️ 公众号 / 小红书：AI产品阿豪</b>
+  <b>✍️ 公众号 / 小红书：AI产品阿豪</b> 
   &nbsp;·&nbsp;
   📍 武汉
 </p>
