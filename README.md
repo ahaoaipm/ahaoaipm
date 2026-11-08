@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.gif" width="100%" alt="阿豪（@阿豪要发光），产品、内容、AI。把事情想通，再用人话讲明白，做成别人用得上的产品、文章或工具。">
+  <img src="./assets/hero.gif" width="100%" alt="阿豪（@AI产品阿豪），产品、内容、AI。把事情想通，再用人话讲明白，做成别人用得上的产品、文章或工具。">
 </p>
 
 <p align="center">
